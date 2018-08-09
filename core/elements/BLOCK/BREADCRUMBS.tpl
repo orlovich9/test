@@ -1,0 +1,1 @@
+{$_modx->runSnippet('pdoCrumbs@PropertySet',['showHome'=>1,'tplWrapper'=>'@INLINE <ul>{$output}</ul>','tpl'=>'@INLINE <li><a href="{$link}">{$menutitle}</a> /</li>', 'tplCurrent'=>'@INLINE <li><a href="{$link}">{$menutitle}</a></li>'])}
